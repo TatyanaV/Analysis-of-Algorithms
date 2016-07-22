@@ -1,0 +1,46 @@
+Dynamic Algorithm:
+[0, 0, 0, 1, 1]
+
+
+2
+
+Dynamic Algorithm:
+[0, 0, 3, 0]
+
+
+3
+
+Dynamic Algorithm:
+[0, 0, 0, 1, 7]
+
+
+8
+
+Slow Change Algorithm:
+[0, 0, 0, 1, 1]
+2
+[0, 0, 3, 0]
+3
+[0, 0, 0, 1, 7]
+8
+
+Greedy Algorithm:
+[0, 0, 0, 1, 1]
+
+
+2
+
+Greedy Algorithm:
+[3, 1, 0, 1]
+
+
+5
+
+Greedy Algorithm:
+[0, 0, 0, 1, 7]
+
+
+8
+
+
+
